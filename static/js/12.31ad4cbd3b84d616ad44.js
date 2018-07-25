@@ -1,2 +1,0 @@
-webpackJsonp([12],{aZTm:function(t,e,a){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var n={render:function(){var t=this.$createElement;return(this._self._c||t)("ve-pie",{attrs:{data:this.chartData}})},staticRenderFns:[]},r=a("VU/8")({data:function(){return{chartData:{columns:["日期","访问用户"],rows:[{"日期":"1/1","访问用户":1393},{"日期":"1/2","访问用户":3530},{"日期":"1/3","访问用户":2923},{"日期":"1/4","访问用户":1723},{"日期":"1/5","访问用户":3792},{"日期":"1/6","访问用户":4593}]}}}},n,!1,null,null,null);e.default=r.exports}});
-//# sourceMappingURL=12.31ad4cbd3b84d616ad44.js.map
